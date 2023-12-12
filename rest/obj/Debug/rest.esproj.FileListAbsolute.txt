@@ -1,0 +1,2 @@
+D:\VS\rest\obj\Debug\rest.esproj.SuggestedBindingRedirects.cache
+D:\VS\rest\obj\Debug\rest.esproj.CoreCompileInputs.cache
